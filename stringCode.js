@@ -63,7 +63,7 @@ function checkPalin(){
     }
 
     //convert to a string from an array
-    revStr = revArray.join;("");
+    revStr = revArray.join ("");
     console.log("reversed is " + revStr);
 
     //compare rev to string and write to status
